@@ -2,8 +2,8 @@
 enable: true
 title: The Location Picker for Android and iOS
 caption: MULTIPLATFORM LIBRARY
-description: Unofficial DCS Companion is a lightweight app designed for fans of DCS World that combines convenience and entertainment. Whether you’re looking for quick access to essential flight manuals or a fun way to pass the time between flights, this app has you covered.
+description: Leku is an Open Source (OSS) Component library for Android and iOS that uses some maps providers (Google Maps) and returns a latitude, longitude and an address based on the location picked with the component provided.
 buttonName: Demo Available on
 button1text: Apple Store
 button2text: Google Play
-image: images/hero/hero-image-dcs-milsim.png
+image: images/hero/hero-image.png
